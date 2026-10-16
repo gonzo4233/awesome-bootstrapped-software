@@ -69,6 +69,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 - [Netkiln](https://netkiln.com) - Paste a payouts CSV; get a public client-ready revenue-health page for freelancers and agencies. Free draft; $19 clean unlock.
 - [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets (NSE & BSE) with a natural-language assistant, a 326-ratio screener, financials, and FII/DII flows.
+- [The AI Till](https://theaitill.com/tools/free/) - Free browser-based tax and pricing calculators for UK sole traders and tradespeople, including CIS, VAT, self-employed tax and day rates, with GOV.UK sources cited.
 
 ## HR & People Ops
 
